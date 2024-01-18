@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Note**: This plugin is maintained by TECHNOBOT-OP. For more Acode plugins and information, visit [TECHNOBOT-OP on GitHub](https://github.com/TECHNOBOT-OP).
+**Note**: This plugin is maintained by TechnoBoy. For more Acode plugins and information, visit [TECHNOBOT-OP on GitHub](https://github.com/TECHNOBOT-OP).
