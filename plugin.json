@@ -1,6 +1,6 @@
 {
-  "id": "acode.plugin",
-  "name": "Plugin",
+  "id": "techno.acode.reload",
+  "name": "Reload Button (Auto reload files)",
   "main": "dist/main.js",
   "version": "1.0.0",
   "readme": "readme.md",
@@ -9,8 +9,8 @@
   "minVersionCode" : 290,
   "price": 0,
   "author": {
-    "name": "",
+    "name": "TechnoBoy",
     "email": "",
-    "github": ""
+    "github": "TECHNOBOT-OP"
   }
 }
