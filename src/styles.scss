@@ -1,0 +1,30 @@
+#reload-btn {
+    background-color: #3498db;
+    position: absolute;
+    cursor: grab;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+    color: #fff;
+    z-index: 1001;
+    &:active{
+        transform: scale(0.9);
+    }
+    &.stick{
+        height: 18px;
+        font-size: 14px;
+        transform: rotate(90deg);
+        border-radius: 4px;
+        width: 90px;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+    &.stick:active{
+        transform: rotate(90deg) scale(1.2);
+    }
+}
