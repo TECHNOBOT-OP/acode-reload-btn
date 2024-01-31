@@ -1,25 +1,37 @@
-# Acode Reload Button Plugin
+# Acode Reload Plugin
 
 ![GitHub](https://img.shields.io/github/license/TECHNOBOT-OP/acode-reload-btn)
 
-Acode Reload Button is a plugin for the Acode editor that provides a convenient refresh button to reload the current active file. It also includes an experimental feature to auto-update all the loaded files in the current editor when they are updated.
+<details>
+    <summary><b><i>Updates</i></b></summary>
+    <details>
+        <summary><b>2.0.0</b></summary>
+        • <i>Added shortcut key.</i><br>
+        • <i>Removed the default button and made it optional.</i><br>
+        • <i>Fixed internal issues and bugs.</i>
+    </details>
+
+</details>
+
+"Acode Reload" is a plugin for the Acode editor that provides a convenient refresh shortcut 'Ctrl-Shift-R' (customizable) and a optional button to reload the current active file. It also includes an experimental feature to auto-update all the loaded files in the current editor when they are updated.
 
 ## Installation
 
 1. Open Acode Editor.
 2. Navigate to **Settings** > **Plugins**.
-3. Search for "Reload Button" in the plugins list.
+3. Search for "Acode Reload" in the plugins list.
 4. Click **Install** after clicking on the "Reload Button" plugin.
 
 ## Features
 
+- **Shortcut**: Easily refresh the content of the currently active file using shortcut key or *Command Pallate*.
 - **Refresh Button**: Easily refresh the content of the currently active file.
 - **Auto-Update (Experimental)**: Automatically update all loaded files when they are updated.
 
 ## Usage
 
-1. After installing the plugin, you will see a refresh icon/button in the Acode interface.
-2. Click the refresh button to reload the content of the currently active file.
+1. After installing the plugin, you will be able to use ***Ctrl-Shift-R*** shortcut key to reload the currently active file and also you get a option in *Command Palate* to **Refresh the Current File**.
+2. You can add a refresh button for faster use.
 3. Explore the experimental auto-update feature to keep all loaded files in sync.
 
 
@@ -36,7 +48,7 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/TECHNOBOT-OP/acode-reload-btn/LICENSE).
 
 ---
 
